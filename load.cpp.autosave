@@ -1,0 +1,7 @@
+class Load{
+protected:
+    QColor color;
+    floag
+public:
+    
+}
