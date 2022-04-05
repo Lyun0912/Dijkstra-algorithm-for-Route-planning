@@ -14,4 +14,5 @@ public:
     City(int n, QPointF a);
 };
 
+
 #endif // CITY_H
